@@ -1,0 +1,13 @@
+G:\c#\test\线程抽奖\bin\Debug\线程抽奖.exe.config
+G:\c#\test\线程抽奖\bin\Debug\线程抽奖.exe
+G:\c#\test\线程抽奖\bin\Debug\线程抽奖.pdb
+G:\c#\test\线程抽奖\bin\Debug\SunnyUI.Common.dll
+G:\c#\test\线程抽奖\bin\Debug\SunnyUI.dll
+G:\c#\test\线程抽奖\obj\Debug\线程抽奖.csprojAssemblyReference.cache
+G:\c#\test\线程抽奖\obj\Debug\线程抽奖.Form1.resources
+G:\c#\test\线程抽奖\obj\Debug\线程抽奖.Properties.Resources.resources
+G:\c#\test\线程抽奖\obj\Debug\线程抽奖.csproj.GenerateResource.cache
+G:\c#\test\线程抽奖\obj\Debug\线程抽奖.csproj.CoreCompileInputs.cache
+G:\c#\test\线程抽奖\obj\Debug\线程抽奖.csproj.CopyComplete
+G:\c#\test\线程抽奖\obj\Debug\线程抽奖.exe
+G:\c#\test\线程抽奖\obj\Debug\线程抽奖.pdb

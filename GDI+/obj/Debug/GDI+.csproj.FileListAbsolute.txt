@@ -1,0 +1,10 @@
+G:\c#\test\GDI+\bin\Debug\GDI+.exe.config
+G:\c#\test\GDI+\bin\Debug\GDI+.exe
+G:\c#\test\GDI+\bin\Debug\GDI+.pdb
+G:\c#\test\GDI+\obj\Debug\GDI+.csprojAssemblyReference.cache
+G:\c#\test\GDI+\obj\Debug\GDI_.Form1.resources
+G:\c#\test\GDI+\obj\Debug\GDI_.Properties.Resources.resources
+G:\c#\test\GDI+\obj\Debug\GDI+.csproj.GenerateResource.cache
+G:\c#\test\GDI+\obj\Debug\GDI+.csproj.CoreCompileInputs.cache
+G:\c#\test\GDI+\obj\Debug\GDI+.exe
+G:\c#\test\GDI+\obj\Debug\GDI+.pdb
